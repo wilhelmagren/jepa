@@ -8,6 +8,7 @@ Could a Joint-Embedding Predictive Architecture enhance transfer learning capabi
 ## Reading material
 
 - [ ] Self-Supervised Pre-Training with Joint-Embedding Predictive Architecture Boosts ECG Classification Performance, [arXiv link](https://arxiv.org/abs/2410.13867).
+  - Consolidated 10 public datasets for pre-training - MIMIC-IV-ECG, CODE-15, PTB-XL, PTB, Chapman-Shaoxing, Ningbo, CPSC, CPSC-Extra, Georgia, St-Petersburg.
 - [ ] Enhancing JEPAs with Spatial Conditioning: Robust and Efficient Representation Learning, [arXiv link](https://arxiv.org/abs/2410.10773).
 - [ ] Learning General Representation of 12-Lead Electrocardiogram with a Joint-Embedding Predictive architecture, [arXiv link](https://arxiv.org/abs/2410.08559).
 - [ ] T-JEPA: Augmentation-Free Self-Supervised Learning for Tabular Data, [arXiv link](https://arxiv.org/abs/2410.05016).
